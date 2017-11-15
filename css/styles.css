@@ -1,0 +1,39 @@
+
+body{
+  text-align: center;
+  background-color: #c0c0c0;
+}
+p.intro{
+  font-style: italic;
+}
+
+.intro-titles{
+  font-weight: bold;
+}
+
+.blog1{
+  border-color: blue;
+  border: solid;
+  background: #939292;
+}
+.blog2{
+  background: #939292;
+  border-color: blue;
+  border: solid;
+}
+
+
+.blog3{
+  background: #939292;
+  border-color: black;
+  border: solid;
+}
+
+.blog4{
+  background: #e2b7b7;
+  border-color: black;
+  border: solid;
+  font-style: italic;
+  font-weight: bold;
+  float: left;
+}
